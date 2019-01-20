@@ -1,0 +1,10 @@
+c:\users\martin\documents\visual studio 2013\Projects\CreditSuisse\Test\bin\Debug\Test.dll
+c:\users\martin\documents\visual studio 2013\Projects\CreditSuisse\Test\bin\Debug\Test.pdb
+c:\users\martin\documents\visual studio 2013\Projects\CreditSuisse\Test\bin\Debug\nunit.framework.dll
+c:\users\martin\documents\visual studio 2013\Projects\CreditSuisse\Test\bin\Debug\nunit.framework.pdb
+c:\users\martin\documents\visual studio 2013\Projects\CreditSuisse\Test\bin\Debug\nunit.framework.xml
+c:\users\martin\documents\visual studio 2013\Projects\CreditSuisse\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+c:\users\martin\documents\visual studio 2013\Projects\CreditSuisse\Test\obj\Debug\Test.dll
+c:\users\martin\documents\visual studio 2013\Projects\CreditSuisse\Test\obj\Debug\Test.pdb
+c:\users\martin\documents\visual studio 2013\Projects\CreditSuisse\Test\bin\Debug\DomainModel.dll
+c:\users\martin\documents\visual studio 2013\Projects\CreditSuisse\Test\bin\Debug\DomainModel.pdb
