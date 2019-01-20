@@ -3,3 +3,8 @@ c:\users\martin\documents\visual studio 2013\Projects\CreditSuisse\DomainModel\b
 c:\users\martin\documents\visual studio 2013\Projects\CreditSuisse\DomainModel\obj\Debug\DomainModel.csprojResolveAssemblyReference.cache
 c:\users\martin\documents\visual studio 2013\Projects\CreditSuisse\DomainModel\obj\Debug\DomainModel.dll
 c:\users\martin\documents\visual studio 2013\Projects\CreditSuisse\DomainModel\obj\Debug\DomainModel.pdb
+C:\Users\Martin\Documents\GitHub\CreditSuisse\DomainModel\bin\Debug\DomainModel.dll
+C:\Users\Martin\Documents\GitHub\CreditSuisse\DomainModel\bin\Debug\DomainModel.pdb
+C:\Users\Martin\Documents\GitHub\CreditSuisse\DomainModel\obj\Debug\DomainModel.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Documents\GitHub\CreditSuisse\DomainModel\obj\Debug\DomainModel.dll
+C:\Users\Martin\Documents\GitHub\CreditSuisse\DomainModel\obj\Debug\DomainModel.pdb

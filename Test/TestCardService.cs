@@ -198,6 +198,38 @@ namespace CreditSuisse.Test
             Assert.That(balanceTrace.SequenceEqual(new[] { 2m, 0m }));
         }
 
+        [Test]
+        public void NegativeWithdrawalAmountThowsException()
+        {
+            const int pin = 1111;
+            var service = NewCardService();
+            var card = service.IssueCard(
+                pin,
+                1m);
+
+            Assert.That(() => service.Withdraw(
+                card,
+                pin,
+                -1m),
+                Throws.TypeOf<ArgumentOutOfRangeException>());
+        }
+
+        [Test]
+        public void NegativeDepositAmountThowsException()
+        {
+            const int pin = 1111;
+            var service = NewCardService();
+            var card = service.IssueCard(
+                pin,
+                1m);
+
+            Assert.That(() => service.Deposit(
+                card,
+                pin,
+                -1m),
+                Throws.TypeOf<ArgumentOutOfRangeException>());
+        }
+
         public static IEnumerable<decimal> IssueCardTestCases
         {
             get

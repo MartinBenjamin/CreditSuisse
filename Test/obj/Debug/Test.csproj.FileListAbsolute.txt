@@ -8,3 +8,13 @@ c:\users\martin\documents\visual studio 2013\Projects\CreditSuisse\Test\obj\Debu
 c:\users\martin\documents\visual studio 2013\Projects\CreditSuisse\Test\obj\Debug\Test.pdb
 c:\users\martin\documents\visual studio 2013\Projects\CreditSuisse\Test\bin\Debug\DomainModel.dll
 c:\users\martin\documents\visual studio 2013\Projects\CreditSuisse\Test\bin\Debug\DomainModel.pdb
+C:\Users\Martin\Documents\GitHub\CreditSuisse\Test\bin\Debug\Test.dll
+C:\Users\Martin\Documents\GitHub\CreditSuisse\Test\bin\Debug\Test.pdb
+C:\Users\Martin\Documents\GitHub\CreditSuisse\Test\bin\Debug\DomainModel.dll
+C:\Users\Martin\Documents\GitHub\CreditSuisse\Test\bin\Debug\nunit.framework.dll
+C:\Users\Martin\Documents\GitHub\CreditSuisse\Test\bin\Debug\DomainModel.pdb
+C:\Users\Martin\Documents\GitHub\CreditSuisse\Test\bin\Debug\nunit.framework.pdb
+C:\Users\Martin\Documents\GitHub\CreditSuisse\Test\bin\Debug\nunit.framework.xml
+C:\Users\Martin\Documents\GitHub\CreditSuisse\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Documents\GitHub\CreditSuisse\Test\obj\Debug\Test.dll
+C:\Users\Martin\Documents\GitHub\CreditSuisse\Test\obj\Debug\Test.pdb

@@ -55,6 +55,9 @@ namespace CreditSuisse.DomainModel
             decimal amount
             )
         {
+            if(amount < decimal.Zero)
+                throw new ArgumentOutOfRangeException("amount");
+
             var requiredPin = 0;
             if(!_pins.TryGetValue(
                 card,
@@ -89,6 +92,9 @@ namespace CreditSuisse.DomainModel
             decimal amount
             )
         {
+            if(amount < decimal.Zero)
+                throw new ArgumentOutOfRangeException("amount");
+
             var requiredPin = 0;
             if(!_pins.TryGetValue(
                 card,
